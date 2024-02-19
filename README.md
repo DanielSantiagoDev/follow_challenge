@@ -9,7 +9,7 @@ Code challenge for interview process
 
 ## Setup
 
-1. **Clone the Repository (Optional):** If you have `git` installed, you can clone this repository to your local machine. 
+1. **Clone the Repository :** If you have `git` installed, you can clone this repository to your local machine. 
 
     ```bash
     git clone https://github.com/DanielSantiagoDev/follow_challenge
